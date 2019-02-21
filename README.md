@@ -14,6 +14,6 @@
     <li>Install 'Flysystem' connector using PHP composer by doing: `composer require barryvdh/elfinder-flysystem-driver`</li>
     <li>Install 'AWS S3 SDK' using composer by doing: `composer require league/flysystem-aws-s3-v3`</li>
     <li>Rename /elFinder/php/connector.minimal.php-dist to /elFinder/php/connector.minimal.php</li>
-    <li>Setup your connector to use AWS S3 SDK on: /elFinder/php/connector.minimal.php, see working example: <a href="https://github.com/bayucandra/ckeditor-elfinder/blob/master/vendor/elFinder/php/connector.minimal.php">https://github.com/bayucandra/ckeditor-elfinder/blob/master/vendor/elFinder/php/connector.minimal.php</a></li>
+    <li>Setup your connector to use AWS S3 SDK on: /elFinder/php/connector.minimal.php, see working example: <a href="https://github.com/bayucandra/ckeditor-elfinder/blob/master/vendor/elFinder/php/connector.minimal.php">https://github.com/bayucandra/ckeditor-elfinder/blob/master/vendor/elFinder/php/connector.minimal.php</a> <b>( you should put your AWS S3 key, secret etc. there )</b></li>
     
 </ol>
