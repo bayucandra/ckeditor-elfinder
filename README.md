@@ -1,5 +1,8 @@
 <h1>CKEDITOR 4 using elFinder with AWS S3 adapter</h1>
 
+<h2>Working demo</h2>
+<a href="https://www.biqdev.com/demo/ckeditor-elfinder/">https://www.biqdev.com/demo/ckeditor-elfinder/</a>
+
 <h2>Steps to be done:</h2>
 <ol>
     <li>
