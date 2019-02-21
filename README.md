@@ -2,6 +2,7 @@
 
 <h2>Working demo</h2>
 <a href="https://www.biqdev.com/demo/ckeditor-elfinder/">https://www.biqdev.com/demo/ckeditor-elfinder/</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uDliXSbVQ8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2>Steps to be done:</h2>
 <ol>
