@@ -69,6 +69,7 @@ $opts = array(
             'driver' => 'Flysystem',
             'alias' => 'BIQDev.com',//Change to anything you like
             'filesystem' => $filesystem,
+            'URL' => $aws_url,
             'tmbURL' => 'self'
         ]
 
