@@ -56,7 +56,7 @@ $client = new S3Client(
     )
 
 );
-$adapter = new AwsS3Adapter($client, 'biqdev.com');
+$adapter = new AwsS3Adapter($client, $aws_config["bucket"]);
 $filesystem = new Filesystem($adapter, Array ( "url" => $aws_url ));
 
 // Documentation for connector options:
