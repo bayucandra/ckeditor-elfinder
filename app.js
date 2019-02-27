@@ -9,8 +9,7 @@ function elFinderInit(){
       link  : '',
       fb    : 'l1_Lw' // Fall back target : `/`
     },
-    imgShowMaxSize = 40000, // Max image size(px) to show
-    customData = {};
+    imgShowMaxSize = 40000; // Max image size(px) to show
 
   // Set image size to show
   function setShowImgSize(url, callback) {
