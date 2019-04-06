@@ -3,6 +3,10 @@
 <h2>Working demo</h2>
 <a href="https://www.biqdev.com/demo/ckeditor-elfinder/">https://www.biqdev.com/demo/ckeditor-elfinder/</a>
 
+<a href="https://www.biqdev.com/demo/ckeditor-elfinder.gif">
+    <img src="https://www.biqdev.com/demo/ckeditor-elfinder.gif" style="height: 200px; width: auto;"/>
+</a>
+
 <h2>Running this example</h2>
 
 Clone this repo, then you just need to modify <b>/vendor/elFinder/php/connector.minimal.php</b> <b>( you should put your AWS S3 key, secret etc. there at variable `$aws_config` )</b>. That's all :)
